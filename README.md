@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gayathri S Nair
 - 👀 I’m interested in Python Programming.
-- 🌱 I’m currently learning Python and web development
+- 🌱 I’m currently learning Python and Full Stack Web development(MERN Stack)
 
 
 <!---
